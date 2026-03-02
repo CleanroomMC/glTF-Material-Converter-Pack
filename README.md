@@ -1,9 +1,9 @@
 # glTF Material Converter Pack
-This repo provides several glTF Material Converter Packs for [CRglTF](https://github.com/TimLee9024/CRglTF) to convert PBR material from glTF V2 file into custom material format used by shader pack.
+This repo provides several glTF Material Converter Packs for [CRglTF](https://github.com/CleanroomMC/CRglTF) to convert PBR material from glTF V2 file into custom material format used by shader pack.
 
-Download them at the [Latest Releases](https://github.com/TimLee9024/glTF-Material-Converter-Pack/releases/latest).
+Download them at the [Latest Releases](https://github.com/CleanroomMC/glTF-Material-Converter-Pack/releases/latest).
 
-Below are the results of each glTF Material Converter Pack by using [CRglTF-Example](https://github.com/TimLee9024/CRglTF-Example).
+Below are the results of each glTF Material Converter Pack by using [CRglTF-Example](https://github.com/CleanroomMC/CRglTF-Example).
 ## BSL Shaders: SEUS/Old PBR
 ![Preview SEUS PBR](preview_seus_pbr.jpg)
 
